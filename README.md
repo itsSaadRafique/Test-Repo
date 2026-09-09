@@ -1,2 +1,2 @@
 # beginner
-This repo is built to strenghten to core working of git and gitHub
+This repo is built to strenghten to core concepts and the working of git and gitHub
